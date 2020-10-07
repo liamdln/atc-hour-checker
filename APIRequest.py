@@ -1,6 +1,12 @@
 import urllib
-
 import dateutil
+
+class ApiRequest():
+
+    def __init__(self, cid, ):
+
+
+
 
 
 def grabData(userURL, backPointer, frontPointer, airports, positions):
